@@ -1,4 +1,11 @@
 # Shape Hierarchy Lab (Starter)
+##Integrantes.
+
+Lina Gallardo Corales.
+Girley Barahona.
+Yesmith Sarmento.
+Mary Figueroa.
+Rigoberto Miranda.
 
 Minimal starter: just enough to compile. Implement the classes so tests pass.
 
@@ -17,3 +24,6 @@ gradlew.bat test   # Windows
 - Edge cases: Treat negative dimensions as `0` for this lab.
 
 > Hints: Use encapsulation (private fields) and keep logic in methods.
+ 
+## Resultados de los test
+![resultado test](test.png)

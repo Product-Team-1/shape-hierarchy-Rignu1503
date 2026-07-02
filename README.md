@@ -1,10 +1,11 @@
 # Shape Hierarchy Lab (Starter)
-##Integrantes
-Lina Gallardo Corales
-Girley Barahona
-Yesmith Sarmento
-Mary Figueroa
-Rigoberto Miranda
+##Integrantes.
+
+Lina Gallardo Corales.
+Girley Barahona.
+Yesmith Sarmento.
+Mary Figueroa.
+Rigoberto Miranda.
 
 Minimal starter: just enough to compile. Implement the classes so tests pass.
 
